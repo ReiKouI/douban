@@ -1,0 +1,4 @@
+scrapy
+baidu-aip
+pillow
+requests
